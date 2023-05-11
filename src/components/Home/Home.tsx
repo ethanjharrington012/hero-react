@@ -77,6 +77,9 @@ export const Home = ( props:Props) => {
                     <li>
                         <NavA to='/signin'>Sign In</NavA>
                     </li>
+                    <li>
+                        <NavA to='/signup'>Sign Up</NavA>
+                    </li>
                 </LogoNavigation>
             </NavbarContainer>
             <Main>
